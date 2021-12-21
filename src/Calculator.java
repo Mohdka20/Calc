@@ -3,7 +3,7 @@ import java.awt.*;
 import java.awt.event.*;
 
 public class Calculator implements ActionListener  {
-	// declarations 
+	// declaration
 	double input1 = 0;
 	double input2 = 0;
 	double result = 0;
